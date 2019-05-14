@@ -8,3 +8,9 @@
 	var log = new Logger();
 	log.info('Hello');
 ````
+
+## future
+
+*	浏览器端的支持
+*	webpack打包支持
+*	自定义函数的支持
