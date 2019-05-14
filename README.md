@@ -9,6 +9,11 @@
 	log.info('Hello');
 ````
 
+具体参照`example/index.js`
+
+![图片](./imgs/a.png)
+
+
 ## future
 
 *	浏览器端的支持
