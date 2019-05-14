@@ -1,0 +1,15 @@
+{
+  "name": "y-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo success"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
