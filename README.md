@@ -14,8 +14,10 @@
 ![图片](./imgs/a.png)
 
 
-## future
+## todo
 
 *	浏览器端的支持
 *	webpack打包支持
 *	自定义函数的支持
+
+## [由来](https://github.com/yangdage123/yang-book/blob/master/y-logger/README.md)
