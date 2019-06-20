@@ -20,4 +20,4 @@
 *	webpack打包支持
 *	自定义函数的支持
 
-## [由来](https://github.com/yangdage123/yang-book/blob/master/y-logger/README.md)
+## [由来](https://github.com/yangdage123/yang-book/blob/master/2019/y-logger.md)
